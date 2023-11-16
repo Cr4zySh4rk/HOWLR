@@ -47,7 +47,7 @@ else{
                 }
             }
         </script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDa3tPUaEQcOJqTi6fxaSO0LU529j7GD74&callback=initMap&libraries=&v=weekly"
+        <script src="https://maps.googleapis.com/maps/api/js?key=<your api key>&callback=initMap&libraries=&v=weekly"
         defer
         ></script>   
         <style>
