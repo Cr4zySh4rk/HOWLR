@@ -1,4 +1,4 @@
-# HOWLRPublic
+# HOWLR
 ### A website that helps freshers and small startups connect with each other to hire the right talent. This website was developed in less than 24hrs in a hackathon conducted by RNSIT called Hack Overflow.
 ## Prerequisite
 ### XAMPP (Installs Apache serevr, MariaDB(MySQL) and PHP which we will need.)
