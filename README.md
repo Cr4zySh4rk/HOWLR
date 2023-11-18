@@ -19,3 +19,5 @@
 ### 6) finally edit index.php in htdocs like below so that the website is run on localhost during server startup
 
 
+
+![Screenshot 2023-11-18 at 9 37 08 AM](https://github.com/Cr4zySh4rk/HOWLR/assets/75577562/9dec5011-5c60-4a2d-9960-b7c742392c5e)
