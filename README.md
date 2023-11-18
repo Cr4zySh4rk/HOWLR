@@ -1,5 +1,9 @@
 # HOWLR
 ### A website that helps freshers and small startups connect with each other to hire the right talent. This website was developed in less than 24hrs in a hackathon conducted by RNSIT called Hack Overflow.
+![image](https://github.com/Cr4zySh4rk/HOWLR/assets/75577562/b96aa37d-b128-42ae-9dc8-8808a8fa0a11)
+![image](https://github.com/Cr4zySh4rk/HOWLR/assets/75577562/7ea34652-dc8f-46af-a7d1-25d8c690852d)
+![image](https://github.com/Cr4zySh4rk/HOWLR/assets/75577562/065b1936-f6b3-4b32-b851-86f8f68fa978)
+
 ## Prerequisite
 ### XAMPP (Installs Apache serevr, MariaDB(MySQL) and PHP which we will need.)
 ## Installation
