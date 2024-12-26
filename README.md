@@ -14,7 +14,7 @@
 ```
 ### 2) Copy the repo to htdocs
 
-### 3) Open phpMyAdmin after starting the serevrs from XAMPP Console
+### 3) Open phpMyAdmin after starting the server from XAMPP Console
 
 ### 4) Create a database called howlr2
 
